@@ -29,13 +29,13 @@ except ImportError:
 # ==========================================
 # ⚙️ FULL CONFIGURATION & CREDENTIALS
 # ==========================================
-BOT_TOKEN = "8940643347:AAHW3uWbcp8ervbQCvrILXtRXM6CVaKEYgQ"
+BOT_TOKEN = "8940643347:AAECEyhPfnykeIe6cvPyJs62skzkSsmkYt4"
 ADMIN_ID = 6550747435
 CHANNEL_USER = "@HOPhoxmpd"
 CHANNEL_LINK = "https://t.me/HOPhoxmpd"
 OWNER_USERNAME = "md9op"
 SUPPORT_INSTA = "https://instagram.com/oussama._py"
-BOT_USERNAME = "opopjobot"
+BOT_USERNAME = "@NFoopbot"
 
 telebot.logger.setLevel(logging.ERROR)
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
